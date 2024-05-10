@@ -30,5 +30,17 @@ Below is a sample of sections and subsections with the highest frequency:
   * Annotator_1 -> coarse-grained categories that are identified by the annotator
   * Annotator_2 -> fine-grained categories that are identified by the annotator
   * Section/Subsection -> if the extracted item is section or subsection
+    
+## Contacts
 
+You can send your emails to Saranya Krishnamoorthy, Ayush Singh, Shabnam Tafreshi, emails: firstname.lastname@evicore.com, if you have questions, suggestions, or concerns.
+
+## Citation
+
+`@article{krishnamoorthy2024llm,</ br>
+  title={LLM-Based Section Identifiers Excel on Open Source but Stumble in Real World Applications}, </ br>
+  author={Krishnamoorthy, Saranya and Singh, Ayush and Tafreshi, Shabnam}, </ br>
+  journal={arXiv preprint arXiv:2404.16294}, </ br>
+  year={2024} </ br>
+}`
 

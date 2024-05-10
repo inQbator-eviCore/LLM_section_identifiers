@@ -25,6 +25,10 @@ Below is a sample of sections and subsections with the highest frequency:
 
 ## File Structure
 
-- `sections_subsections.csv` in `resources` folder
-  -- 
+* `sections_subsections.csv` in `resources` folder
+  * Section and Subsection Names -> names of section and subsections that are extracted from the documents
+  * Annotator_1 -> coarse-grained categories that are identified by the annotator
+  * Annotator_2 -> fine-grained categories that are identified by the annotator
+  * Section/Subsection -> if the extracted item is section or subsection
+
 

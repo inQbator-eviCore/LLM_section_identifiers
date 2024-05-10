@@ -17,11 +17,11 @@ We randomly selected 100 records from a pool of one million records we have in o
 Below is a sample of sections and subsections with the highest frequency:
 
 | **Medications Section** | Information about the current and past Medications |
---- | --- |
+| --- | --- |
 | **Order Info** | This section consists of additional items that are required to conclude the assessments. Examples of such items are Mammograms, x-rays, etc., or the information about the provider of such items.  |
---- | --- |
+| --- | --- |
 | **Results Section** | Usually contains of lab results |
---- | --- |
+| --- | --- |
 | **Physical Exam Section** | Result of physical exams such as Integumentary, Chest and Lung Exam, Cardiovascular, Abdomen, etc. |
 
 ## File Structure

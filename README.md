@@ -38,11 +38,23 @@ You can send your emails to Saranya Krishnamoorthy, Ayush Singh, Shabnam Tafresh
 ## Citation
 
 ```
-@article{krishnamoorthy2024llm, <br/>
-  title={LLM-Based Section Identifiers Excel on Open Source but Stumble in Real World Applications}, <br/>
-  author={Krishnamoorthy, Saranya and Singh, Ayush and Tafreshi, Shabnam}, <br/>
-  journal={arXiv preprint arXiv:2404.16294}, <br/>
-  year={2024} <br/>
+@article{krishnamoorthy2024llm,
+  title={LLM-Based Section Identifiers Excel on Open Source but Stumble in Real World Applications},
+  author={Krishnamoorthy, Saranya and Singh, Ayush and Tafreshi, Shabnam},
+  journal={arXiv preprint arXiv:2404.16294},
+  year={2024}
+}
+```
+
+BibTex
+```
+@misc{krishnamoorthy2024llmbased,
+      title={LLM-Based Section Identifiers Excel on Open Source but Stumble in Real World Applications}, 
+      author={Saranya Krishnamoorthy and Ayush Singh and Shabnam Tafreshi},
+      year={2024},
+      eprint={2404.16294},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
 ```
 

@@ -10,4 +10,11 @@ Check out the full paper here: https://arxiv.org/abs/2404.16294
 
 In this repository we provide the result of a manual annotation of a dataset in healthcare. This dataset consists of of prior authorization requests derived from faxed-in images being transcribed to text via an optical character recognition system (OCR). These requests contain EHR of patients in the form of doctors’ notes, submitted in both PDF and image formats. These documents lack a standardized structure, with segments and titles that can vary significantly in length. Although it’s possible to group these titles into clusters of similar meaning, the language and number of titles differ across documents. Additionally, OCR inaccuracies arise from unclear text, spelling errors, complex table structures, and handwritten content, resulting in highly noisy input for any Section Identification (SI) system to process. 
 
+## Annotation Design
+
+We randomly selected 100 records from a pool of one million records we have in our corpus. These records are in two forms, PDF or fax images which doctors submit to insurance companies, and hence, can arrive from any arbitrary format. We refer to these records as documents in the span of this manuscript. These documents have no standard structures and sometimes they contain multiple patients information at the same time. Six annotators with higher education and nonnative speakers of English carry the annotation task. Each annotates an equal amount and random selection of these documents. After this phase of annotation, two annotators annotate these sections and sub-sections to more general categories. The purpose of this annotation was to use human expertise with no prior definition or defined categories to create those categories. The results of these annotation were one set of fine-grained labels and one set of coarse-grained labels of categories. We encourage the readers to continue reading the annotation instruction, results, and discussion in our paper which is refrence above. We share the sections and subsections in a CSV file in this respositories. 
+
+## File Structure
+
+
 

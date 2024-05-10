@@ -25,5 +25,6 @@ Below is a sample of sections and subsections with the highest frequency:
 
 ## File Structure
 
-
+- `sections_subsections.csv` in `resources` folder
+  -- 
 
